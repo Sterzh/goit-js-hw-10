@@ -56,6 +56,7 @@ function renderCountries(countries) {
       'Too many matches found. Please enter a more specific name.'
     );
     countriesList.innerHTML = ' ';
+    countriesInfo.innerHTML = ' ';
   }
 }
 
